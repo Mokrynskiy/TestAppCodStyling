@@ -9,7 +9,7 @@
 
         static void myVoid()
         {
-
+            int 
         }
     }
 }
