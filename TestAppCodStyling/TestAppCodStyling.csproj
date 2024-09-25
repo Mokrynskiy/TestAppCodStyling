@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\mokri\source\repos\TestAppCodStyling\TestAppCodStyling\.editorconfig" />
+  </ItemGroup>
+
 </Project>
